@@ -375,6 +375,11 @@ section .title::after {
     font-weight: 500;
     margin: 10px 0 7px 0;
 }
+.card {
+    height: 250px;
+    width: 300px;
+}
+
 
 
 /* skills section styling */
