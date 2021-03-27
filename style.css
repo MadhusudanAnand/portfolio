@@ -421,7 +421,7 @@ section .title::after {
 }
 
 .skills .skills-content .right .bars {
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 
 .skills .skills-content .right .info {
@@ -452,11 +452,15 @@ section .title::after {
     background: crimson;
 }
 
-.skills-content .right .html::before {
+.skills-content .right .c::before {
+    width: 70%;
+}
+
+.skills-content .right .c++::before {
     width: 80%;
 }
 
-.skills-content .right .css::before {
+.skills-content .right .dsa::before {
     width: 80%;
 }
 
@@ -464,12 +468,17 @@ section .title::after {
     width: 60%;
 }
 
-.skills-content .right .php::before {
-    width: 70%;
+.skills-content .right .html::before {
+    width: 75%;
 }
-
-.skills-content .right .mysql::before {
-    width: 70%;
+.skills-content .right .react::before {
+    width: 60%;
+}
+.skills-content .right .node::before {
+    width: 60%;
+}
+.skills-content .right .mongo::before {
+    width: 60%;
 }
 
 
