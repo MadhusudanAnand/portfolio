@@ -421,7 +421,7 @@ section .title::after {
 }
 
 .skills .skills-content .right .bars {
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 
 .skills .skills-content .right .info {
@@ -456,7 +456,7 @@ section .title::after {
     width: 70%;
 }
 
-.skills-content .right .c++::before {
+.skills-content .right .cpp::before {
     width: 80%;
 }
 
