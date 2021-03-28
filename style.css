@@ -142,14 +142,15 @@ section .title::after {
 .navbar .menu li a {
     color: white;
     display: block;
-    font-size: 25px;
+    font-size: 23px;
     font-weight: 500;
     margin-left: 25px;
     transition: color 0.3s ease;
 }
 
 .navbar .menu li a:hover {
-    font-size: 21px;
+    font-size: 25px;
+    color: crimson;
 }
 
 
