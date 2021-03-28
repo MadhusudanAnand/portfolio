@@ -166,7 +166,7 @@ section .title::after {
     width: 42px;
     background: crimson;
     right: 30px;
-    bottom: 21px;
+    bottom: 10px;
     text-align: center;
     line-height: 45px;
     color: #fff;
@@ -181,7 +181,7 @@ section .title::after {
 }
 
 .scroll-up-btn.show {
-    bottom: 35px;
+    bottom: 30px;
     opacity: 1;
     pointer-events: auto;
 }
