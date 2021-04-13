@@ -86,8 +86,8 @@ function sendmail() {
 
     Email.send({
         SecureToken: "af5d4263-acdb-4a67-b418-e892649c3a39",
-        To: 'madhusudan0528@gmail.com',
-        From: "msa20899@gmail.com",
+        To: 'msa20899@gmail.com',
+        From: " madhusudan0528@gmail.com",
         Subject: "New mail on my website from " + name,
         Body: Body
     }).then(
