@@ -85,9 +85,9 @@ function sendmail() {
     //console.log(name, phone, email, message);
 
     Email.send({
-        SecureToken: "494d6621-4bc3-4476-aa9a-3ebb98998db7",
-        To: 'msa20899@gmail.com',
-        From: email,
+        SecureToken: "af5d4263-acdb-4a67-b418-e892649c3a39",
+        To: 'madhusudan0528@gmail.com',
+        From: "msa20899@gmail.com",
         Subject: "New mail on my website from " + name,
         Body: Body
     }).then(
