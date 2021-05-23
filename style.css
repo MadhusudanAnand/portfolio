@@ -456,7 +456,11 @@ section .title::after {
 }
 
 .skills-content .right .c::before {
-    width: 70%;
+    width: 80%;
+}
+
+.skills-content .right .p::before {
+    width: 60%;
 }
 
 .skills-content .right .cpp::before {
@@ -467,21 +471,17 @@ section .title::after {
     width: 80%;
 }
 
-.skills-content .right .js::before {
-    width: 60%;
-}
-
 .skills-content .right .html::before {
-    width: 75%;
+    width: 70%;
 }
-.skills-content .right .react::before {
-    width: 60%;
+.skills-content .right .css::before {
+    width: 70%;
 }
-.skills-content .right .node::before {
-    width: 60%;
+.skills-content .right .dbms::before {
+    width: 70%;
 }
-.skills-content .right .mongo::before {
-    width: 60%;
+.skills-content .right .ss::before {
+    width: 78%;
 }
 
 
