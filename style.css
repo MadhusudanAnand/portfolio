@@ -845,3 +845,6 @@ footer span a:hover {
         transform: scale(1);
     }
 }
+#git {
+    color: crimson;
+}
